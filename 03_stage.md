@@ -8,4 +8,5 @@ You can stage/unstage a file by pressing spacebar.
 
 To stage/unstage all the files press a.
 
-To stage/unstage only specific line(s) in a file, first press enter and then press space
+To stage/unstage only specific line(s) in a file, first press enter and then press space.
+Once done, press Esc to jump back to Files Panel.
